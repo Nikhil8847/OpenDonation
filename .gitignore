@@ -1,0 +1,3 @@
+build/
+.env
+front_end(not implemented)/node_modules
